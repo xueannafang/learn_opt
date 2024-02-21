@@ -10,7 +10,7 @@ The envelopped workflow. Allow optimisation for complicated imaginary function. 
 The workflow is summarised below:
 
 <p>
- <img src=https://github.com/xueannafang/hsp-toolkits/blob/main/figs/logo_all.pnghttps://github.com/xueannafang/learn_opt/blob/main/exp_1.png width=1000>
+ <img src=https://github.com/xueannafang/learn_opt/blob/main/exp_1.png width=1000>
  </p>
 
  
