@@ -114,8 +114,8 @@ bo.aq_func(x0, ucb_beta = 2)
 For the maunal version, do:
 
 ```
-new_x = np.array([0.004])
-new_y = exp_model(new_x, noise_level = noise_level)
+new_x = np.array([0.004]) #here 0.004 is an example new_x value
+new_y = exp_model(new_x, noise_level = noise_level) # in real case, the new_y would also be an array specified by user, but here its based on imagniary model, so its auto generated.
 bo.add_new_data(new_x, new_y)
 ```
 
