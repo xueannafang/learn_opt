@@ -170,6 +170,9 @@ Here is an example workflow, see how the kernel and the plot changed in each ste
  <img src=https://github.com/xueannafang/learn_opt/blob/main/exp_1.png width=1000>
  </p>
 
+For the automatic workflow, user only needs to specify the first guess of x0, then the rest of "x0" will be determined by the "suggested next x" from the previous step.
+
+The optimisation will continue until two "suggested next x" reached the same, which means the model has converged.
  
 <p>
  <img src=https://github.com/xueannafang/learn_opt/blob/main/exp_2.png width=1000>
