@@ -161,7 +161,7 @@ gpr log: {'gpr': GaussianProcessRegressor(alpha=0.1, kernel=1**2 * RBF(length_sc
 The kernel can be extracted by:
 
 ```
-bo.gpr_log['opt_kernel]
+bo.gpr_log['opt_kernel']
 ```
 
 Here is an example workflow, see how the kernel and the plot changed in each step:
