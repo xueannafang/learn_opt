@@ -1,7 +1,7 @@
 # learn_opt
  learn optimisation
 
-- [Bayesian_opt](http://localhost:8888/notebooks/Bayesian_opt.ipynb)
+- [Bayesian_opt](https://github.com/xueannafang/learn_opt/blob/main/Bayesian_opt.ipynb)
 A step-by-step learning diary for Bayesian basics. 
 
 - [Bayes_opt_class](https://github.com/xueannafang/learn_opt/blob/main/Bayes_opt_class.ipynb)
