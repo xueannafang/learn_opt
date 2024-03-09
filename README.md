@@ -7,8 +7,11 @@ A step-by-step learning diary for Bayesian basics.
 - [Bayes_opt_class](https://github.com/xueannafang/learn_opt/blob/main/Bayes_opt_class.ipynb)
 The envelopped workflow. Allow optimisation for complicated imaginary function. Allow automatic selection of next data.
 
+- [Deal with real-life experimental data - gp-ucb - without theoretical model](https://github.com/xueannafang/learn_opt/blob/main/real_life_test_multi_dim_PCA_GP_UCB.ipynb)
+No theoretical model was hypothesised now. Try to compare the Bayesian prediction from training dataset with observed best point. This version also includes dimensionality reduction (from 2 to 1, according to weighted contribution). A different kernel (Matern) was attempted. More functions on hyperparameter modification..
 
-Key steps:
+
+Key steps in [Bayes_opt_class](https://github.com/xueannafang/learn_opt/blob/main/Bayes_opt_class.ipynb):
 
 1) Specify the hyperparameters in the user input block:
 
