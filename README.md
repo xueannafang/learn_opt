@@ -9,6 +9,7 @@ The envelopped workflow. Allow optimisation for complicated imaginary function. 
 
 - [Deal with real-life experimental data - gp-ucb - without theoretical model](https://github.com/xueannafang/learn_opt/blob/main/real_life_test_multi_dim_PCA_GP_UCB.ipynb)
 No theoretical model was hypothesised now. Try to compare the Bayesian prediction from training dataset with observed best point. This version also includes dimensionality reduction (from 2 to 1, according to weighted contribution). A different kernel (Matern) was attempted. More functions on hyperparameter modification..
+(And we can compare with other standard BO package using the same data - [working example](https://github.com/xueannafang/learn_opt/blob/main/multi_dim_BO_by_others.ipynb).)
 
 A version without weighting variables is [here](https://github.com/xueannafang/learn_opt/blob/main/real_life_test_one_dim_PCA_GP_UCB.ipynb). 
 
