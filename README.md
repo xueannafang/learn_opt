@@ -2,7 +2,10 @@
  learn optimisation
 
 - [Bayesian_opt](https://github.com/xueannafang/learn_opt/blob/main/Bayesian_opt.ipynb)
-A step-by-step learning diary for Bayesian basics. 
+A step-by-step learning diary for Bayesian basics.
+
+-[More about acq functions](https://github.com/xueannafang/learn_opt/blob/main/more_about_acq_func_and%20some_stats.ipynb).
+A few introduction about working mechanism of different acquisition functions.
 
 - [Bayes_opt_class](https://github.com/xueannafang/learn_opt/blob/main/Bayes_opt_class.ipynb)
 The envelopped workflow. Allow optimisation for complicated imaginary function. Allow automatic selection of next data.
