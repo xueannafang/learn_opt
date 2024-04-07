@@ -1,6 +1,8 @@
 # learn_opt
  learn optimisation
 
+## Bayesian Optimisation
+
 - [Bayesian_opt](https://github.com/xueannafang/learn_opt/blob/main/Bayesian_opt.ipynb)
 A step-by-step learning diary for Bayesian basics.
 
@@ -190,3 +192,8 @@ The optimisation will continue until two "suggested next x" reached the same, wh
 
 
 
+## Genetic Algorithm
+
+- [Understand basics of genetic algorithm (GA)](https://github.com/xueannafang/learn_opt/blob/main/learn_GeneticAlgorithm.ipynb)
+
+We went through five key steps of GA (guided by a keta on codewars) to understand the big map.
